@@ -6,7 +6,7 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>CIVIL_Consumer_APP</name>
+    <name>CIVIL COMPLAINT CONSUMER APP</name>
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>
